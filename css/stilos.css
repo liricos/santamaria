@@ -63,32 +63,8 @@ background-color: black;
     
 }
 
-/* ayuda */
-.boxModel_1{
-    background-color:white;
-    width: 500px;
-    height: 225px;
-    margin top: 50px 25px 40px 30px; 
-    margin: 10px auto;
-    padding: 25px 50px;
-    border: 10px solid black;
-}
-.bloque{
-    text-align: center;
-}
 
 
-/* carrito */
-
-.carro{
-    text-align: center;
-    background-color: mediumorchid;
-}
 
 
-.boxmodel_2{
-   
-   padding-left: 1000px;
-    border: 10px  black;
 
-}
